@@ -1,1 +1,3 @@
-# CCNA-Mega-LAB
+> **نکته**: فایل اولیه و خام این تمرین از کانال`Jeremy's IT Lab`برداشته شده‼️
+
+# CCNA Mega LAB
