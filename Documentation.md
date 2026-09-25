@@ -13,7 +13,7 @@ Cisco Packet Tracer`9.0.1`⬆️
 
 ## 🔹هدف
 
-- انجام دستورالعمل‌های داخل فایل`CCNA Mega Lab (Jeremy's IT Lab).pka`.
+- انجام دستورالعمل‌های داخل فایل`CCNA Mega Lab (Jeremy's IT Lab).pka`یا همون`Instructions.md`.
     
 - **هدف** از این سناریو اینه که تمامی مباحث داخل CCNA رو به صورت یک جا تمرین کنیم!
 
