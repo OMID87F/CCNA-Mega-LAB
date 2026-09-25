@@ -24,7 +24,7 @@ Cisco Packet Tracer`9.0.1`⬆️
 
 ### 🔸چک‌لیست
 1. Part 1:
-	- [ X ] Step 1
+	- [X] Step 1
 	- [ ] Step 2⚠️(In the end!)
 	- Step 3⚠️(In the end!)
 	- Step 4⚠️(In the end!)
