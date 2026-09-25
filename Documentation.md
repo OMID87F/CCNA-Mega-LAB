@@ -23,7 +23,6 @@ Cisco Packet Tracer`9.0.1`⬆️
 ## 🔹اقدامات و کانفیگ‌ها
 
 ### 🔸چک‌لیست
-***
 1. Part 1:
 	- Step 1✅
 	- Step 2⚠️(In the end!)
@@ -100,9 +99,9 @@ Cisco Packet Tracer`9.0.1`⬆️
 	- Step 2
 	- Step 3
 	- Step 4
-
-### 🔸کانفیگ‌ها
 ***
+### 🔸کانفیگ‌ها
+
 
 
 
