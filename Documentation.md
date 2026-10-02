@@ -1,5 +1,5 @@
 >**نکته**:
->ایده و فایل خام`pka.`این سناریو از [Jeremy's IT Lab](https://youtu.be/2p7-MluKAgE?si=PZIXJnTveFXlKFq1) برداشته شده‼️
+> ایده و فایل خام`pka.`این سناریو از [Jeremy's IT Lab](https://youtu.be/2p7-MluKAgE?si=PZIXJnTveFXlKFq1) برداشته شده‼️
 
 # 🔻سناریوی CCNA Mega Lab
 
@@ -102,7 +102,7 @@ Cisco Packet Tracer`9.0.1`⬆️
 ***
 ### 🔸کانفیگ‌ها
 >**نکته**:
->بخاطر حجم زیاد کانفیگ‌ها، صرفا میتونم Export نهایی هر دستگاه رو بذارم‼️
+> بخاطر حجم زیاد کانفیگ‌ها، صرفا میتونم Export نهایی هر دستگاه رو بذارم‼️
 
 
 
